@@ -1,4 +1,4 @@
-**📊 Superstore Data Analysis (2014–2017)**
+**📊 Regional Sales & Margin Performance Analysis (2014–2017)**
 
 **Tools Used:** **SQL**
 **Focus Areas:** Profitability · Regional Performance · Sub-Category Insights 
